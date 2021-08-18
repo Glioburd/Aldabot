@@ -1,0 +1,24 @@
+{
+	"prefix": "!",
+	"token": "your_bot_token",
+	"hateEmojis": ["🤮", "your_custom_emoji_id"],
+	"loveEmojis": ["❤️", "🥰"],
+	"targets": {
+		"hateTargets": [
+			{
+				"username": "Foo",
+				"discriminator": "1234"
+			},
+			{
+				"username": "Bar",
+				"discriminator": "3214"
+			}
+		],
+		"loveTargets": [
+			{
+				"username": "Baz",
+				"discriminator": "1664"
+			}
+		]
+	}
+}
