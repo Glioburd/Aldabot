@@ -24,7 +24,7 @@ yarn
 
 Rename your `config.sample.json` to `config.json`
 
-Paste your token in the `token` field, paste the emojis of your choice in their respective array (*hateEmojis*, *loveEmojis*). In case of custom emoji, paste their id. [Here's how to get it](https://support.discord.com/hc/en-us/community/posts/360043210111/comments/360008563772)
+Paste your token in the `token` field, paste the emojis of your choice in their respective array (*hateEmojis*, *loveEmojis*). In case of custom emoji, paste their id. [Here's how to get it](https://support.discord.com/hc/en-us/community/posts/360043210111/comments/360008563772).
 
 Set the users you want to seek. Just put their username and their discriminator (the quad digit after their nickname : foo#**1234**) in their respective array (*hateTargets*, *loveTargets*)
 
